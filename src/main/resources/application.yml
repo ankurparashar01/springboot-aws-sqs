@@ -1,10 +1,11 @@
 cloud:
   aws:
     region:
-      static: ap-south-1
+      static: us-east-1
       auto: false
     credentials:
-      access-key: 
-      secret-key: 
+      access-key: AKIAXVRF44BDNVSGKGEN
+      secret-key: 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
     end-point:
-      uri: 
+      uri: https://sqs.us-east-1.amazonaws.com/527286722630/sqs-queue-v1
+
